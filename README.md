@@ -1,6 +1,6 @@
 # Garden Time Lapse
 
-Raspberry Pi Web Server for taking Garden (or other) Time Lapses.
+Raspberry Pi web server for taking garden (or other) time lapses.
 
 ## Setup
 - Setup Apache, PHP, and fswebcam on the latest version of Debian
