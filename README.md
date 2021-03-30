@@ -10,4 +10,4 @@ Raspberry Pi web server for taking garden (or other) time lapses.
 - Link (`ln -s`) `plant_last.jpg` and `plant_preview.jpg` in `www` to `/var/timelapse/plant`
 
 ## Usage
-A webserver is hosted to view the latest image as configured by Apache.  Raw images can be copied from `/var/timelapse/plant/raw_image`.
+A web server is hosted to view the latest image as configured by Apache.  Raw images can be copied from `/var/timelapse/plant/raw_image`.
